@@ -1,3 +1,5 @@
+# Introduction to React
+
 React is a popular JavaScript library developed by Facebook for building user interfaces, especially for single-page applications. It allows developers to create large web applications that can update and render efficiently with minimal coding. Here’s a breakdown of the key concepts and features in React:
 
 ### 1. **Component-Based Architecture**
@@ -177,4 +179,4 @@ To start a React project, you can use **Create React App** (CRA), which sets up 
    npm start
    ```
 
-That’s a basic introduction to React. It’s a flexible and efficient library for building modern web applications! Would you like more detailed examples or explanations of any specific part?
+That’s a basic introduction to React. It’s a flexible and efficient library for building modern web applications!
